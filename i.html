@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Text Over Image</title>
+  <style>
+    /* CSS */
+    .image-container {
+      position: relative;
+      width: 2000px; /* Adjust as needed */
+      height: 2000px; /* Adjust as needed */
+      overflow: hidden;
+    }
+
+    .image {
+      width: 2000px;
+      height: 1200px;
+      display: block;
+    }
+
+    .text-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    .text-content {
+      color: rebeccapurple;
+      font-size: 24px;
+      font-weight: bold;
+      text-align: center;
+      overflow: hidden;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HTML -->
+  <div class="image-container">
+    <img class="image" src="New folder/images/center.png" alt="Your Image">
+    <div class="text-overlay">
+      <div class="text-content">
+        Long Overflowing Text That Covers the Entire Area of the Image
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

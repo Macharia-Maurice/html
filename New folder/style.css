@@ -1,0 +1,371 @@
+.feedback {
+  width: 2849px;
+  height: 1778px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 20px;
+  overflow: hidden;
+  background: linear-gradient(180deg, rgb(144, 102, 68) 0%, rgb(152, 140, 132) 100%);
+}
+
+.feedback .form {
+  position: relative;
+  width: 3288px;
+  height: 1879px;
+  top: -63px;
+  left: -201px;
+}
+
+.feedback .overlap {
+  position: relative;
+  width: 3284px;
+  height: 1879px;
+}
+
+.feedback .div {
+  position: absolute;
+  width: 2063px;
+  height: 1192px;
+  top: 356px;
+  left: 594px;
+  background-color: #946944;
+  border-radius: 20px;
+}
+
+.feedback .background-doodles {
+  position: absolute;
+  width: 3284px;
+  height: 1879px;
+  top: 0;
+  left: 0;
+}
+
+.feedback .img {
+  position: absolute;
+  width: 694px;
+  height: 901px;
+  top: 940px;
+  left: 2356px;
+  object-fit: cover;
+}
+
+.feedback .img-2 {
+  position: absolute;
+  width: 482px;
+  height: 500px;
+  top: 90px;
+  left: 201px;
+  object-fit: cover;
+}
+
+.feedback .illustr-PNG-PSD {
+  position: absolute;
+  width: 610px;
+  height: 731px;
+  top: 1024px;
+  left: 201px;
+  object-fit: cover;
+}
+
+.feedback .img-3 {
+  position: absolute;
+  width: 653px;
+  height: 723px;
+  top: 63px;
+  left: 2397px;
+  object-fit: cover;
+}
+
+.feedback .navbar {
+  position: absolute;
+  width: 2849px;
+  height: 141px;
+  top: 63px;
+  left: 201px;
+  background-color: #4e2d18;
+}
+
+.feedback .footer {
+  position: absolute;
+  width: 2849px;
+  height: 141px;
+  top: 1700px;
+  left: 201px;
+  background-color: #4e2d18;
+}
+
+.feedback .name-box {
+  position: absolute;
+  width: 929px;
+  height: 131px;
+  top: 769px;
+  left: 1615px;
+}
+
+.feedback .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 427px;
+  font-family: "Kalam", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.feedback .name-box-2 {
+  position: absolute;
+  width: 927px;
+  height: 73px;
+  top: 58px;
+  left: 0;
+  background-color: #edd6b3;
+  border-radius: 20px;
+}
+
+.feedback .email-box {
+  position: absolute;
+  width: 929px;
+  height: 121px;
+  top: 904px;
+  left: 1615px;
+}
+
+.feedback .email-box-2 {
+  position: absolute;
+  width: 927px;
+  height: 73px;
+  top: 48px;
+  left: 0;
+  background-color: #edd6b3;
+  border-radius: 20px;
+}
+
+.feedback .message-box {
+  position: absolute;
+  width: 929px;
+  height: 337px;
+  top: 1039px;
+  left: 1615px;
+}
+
+.feedback .text-wrapper-2 {
+  position: absolute;
+  top: 0;
+  left: 407px;
+  font-family: "Kalam", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.feedback .message-box-2 {
+  position: absolute;
+  width: 927px;
+  height: 287px;
+  top: 50px;
+  left: 0;
+  background-color: #edd6b3;
+  border-radius: 20px;
+}
+
+.feedback .send {
+  position: absolute;
+  width: 205px;
+  height: 96px;
+  top: 1402px;
+  left: 2174px;
+}
+
+.feedback .overlap-group {
+  position: relative;
+  width: 203px;
+  height: 96px;
+}
+
+.feedback .rectangle {
+  position: absolute;
+  width: 203px;
+  height: 73px;
+  top: 7px;
+  left: 0;
+  background-color: #edd6b3;
+  border-radius: 20px;
+}
+
+.feedback .text-wrapper-3 {
+  position: absolute;
+  top: 0;
+  left: 46px;
+  font-family: "Kalam", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.feedback .reset {
+  position: absolute;
+  width: 275px;
+  height: 83px;
+  top: 1403px;
+  left: 1769px;
+}
+
+.feedback .overlap-2 {
+  position: relative;
+  width: 273px;
+  height: 83px;
+}
+
+.feedback .rectangle-2 {
+  position: absolute;
+  width: 203px;
+  height: 73px;
+  top: 10px;
+  left: 36px;
+  background-color: #edd6b3;
+  border-radius: 20px;
+}
+
+.feedback .text-wrapper-4 {
+  position: absolute;
+  width: 273px;
+  top: 0;
+  left: 0;
+  font-family: "Kalam", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.feedback .text-wrapper-5 {
+  position: absolute;
+  width: 420px;
+  top: 389px;
+  left: 1446px;
+  font-family: "Kalam", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 100px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.feedback .text-wrapper-6 {
+  position: absolute;
+  width: 957px;
+  top: 605px;
+  left: 711px;
+  font-family: "Kalam", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 100px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.feedback .image-removebg {
+  position: absolute;
+  width: 1049px;
+  height: 748px;
+  top: 679px;
+  left: 619px;
+  object-fit: cover;
+}
+
+.feedback .feedback-type {
+  position: absolute;
+  width: 578px;
+  height: 86px;
+  top: 683px;
+  left: 1789px;
+}
+
+.feedback .overlap-3 {
+  position: relative;
+  height: 86px;
+}
+
+.feedback .group {
+  width: 287px;
+  left: 291px;
+  position: absolute;
+  height: 43px;
+  top: 43px;
+}
+
+.feedback .ellipse {
+  position: absolute;
+  width: 27px;
+  height: 23px;
+  top: 10px;
+  left: 0;
+}
+
+.feedback .text-wrapper-7 {
+  position: absolute;
+  width: 249px;
+  top: 0;
+  left: 36px;
+  font-family: "Kalam", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.feedback .group-2 {
+  width: 293px;
+  left: 0;
+  position: absolute;
+  height: 43px;
+  top: 43px;
+}
+
+.feedback .text-wrapper-8 {
+  position: absolute;
+  width: 249px;
+  top: 0;
+  left: 42px;
+  font-family: "Kalam", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.feedback .ellipse-2 {
+  position: absolute;
+  width: 37px;
+  height: 36px;
+  top: 4px;
+  left: -6px;
+  background-color: #2331b1;
+  border-radius: 18.5px/18px;
+  border: 6px solid;
+  border-color: #fff8f8;
+}
+
+.feedback .text-wrapper-9 {
+  position: absolute;
+  top: 0;
+  left: 197px;
+  font-family: "Kalam", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}

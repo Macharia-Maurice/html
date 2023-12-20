@@ -1,0 +1,23 @@
+#mudryk{
+    background-image: url("New folder/images/Mykhailo_Mudryk_profile_23-24_with_sponsor_avatar-removebg_1.webp");
+    color: limegreen;
+    height: 500px;
+    width: 500px;
+    background-color:wheat ;
+    text-align:justify;
+    
+}
+
+body{
+    background-color: lightskyblue;
+}
+
+img{
+    width: 500px;
+    height: 600px;
+}
+
+
+#mudryk:hover{
+    color: lightslategray;
+}
