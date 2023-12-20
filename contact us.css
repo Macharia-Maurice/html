@@ -7,7 +7,8 @@
 .main{
     background: linear-gradient(#8A6240, #CABA9C);
     position: relative;
-    height: 600px;
+    height: 100vh;
+    overflow: hidden;
     
 }
 .pizza img{
